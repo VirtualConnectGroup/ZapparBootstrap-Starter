@@ -1,7 +1,7 @@
 {
-  "name": "zappar-threejs-imagetracking",
+  "name": "zbootstrap-wheel",
   "version": "1.0.0",
-  "description": "",
+  "description": "Starting with Zappar image Tracking Bootstrap and slowly adding in content for wheel",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
